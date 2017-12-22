@@ -67,7 +67,8 @@ input::-moz-focus-inner,button::-moz-focus-inner{ border:0;padding:0;outline:0; 
 .content_left h2{font-size:50px;color:#0a5dc3;}
 .content_left h2 span{font-size:30px;}
 .content_left h3{color:#3cc56d;font-size:30px;line-height:55px;}
-.right_module_title{width:49px;font-size:18px;height:100%;padding:0px 17px;color:#333333;border-left-width:3px;border-left-style:solid;border-radius:3px 0px 0px 3px;float:left;position:absolute;left:0px;top:0px;display:flex; align-items:center;justify-content:center;}
+.right_module_title{width:49px;font-size:18px;height:100%;padding:0px 17px;color:#333333;border-left-width:3px;border-left-style:solid;border-radius:3px 0px 0px 3px;float:left;position:absolute;left:0px;top:0px;}
+.right_module_title span{position:absolute;top:30%}
 .color__border_green{border-left-color:#3cc56d}
 .color__border_blue{border-left-color:#459fff}
 .right_module_left{width:19%;float:left;}
